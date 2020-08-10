@@ -31,6 +31,6 @@ Site desenvolvido para unir professores e alunos para para evoluirem na sua jorn
 
 <br><br>
 
-##### 🔎 **Search for a teacher **
+##### 🔎 **Search for a teacher**
 
 [![Search for a teacher](https://github.com/renansilvamaciel/NLW/blob/master/Design%20and%20Layout/web-list.png?raw=true "Search for a teacher")](http://https://github.com/renansilvamaciel/NLW/blob/master/Design%20and%20Layout/web-list.png?raw=true "Search for a teacher")
